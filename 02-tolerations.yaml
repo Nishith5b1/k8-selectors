@@ -7,7 +7,7 @@ metadata:
     environment: dev
     purpose: poc
 spec:
-  conatiners:
+  containers:
   - name: nginx # container name
     image: nginx # by default it will get from docker hub
   tolerations:
